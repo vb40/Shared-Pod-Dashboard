@@ -67,3 +67,8 @@ sharedpod-dashboard/
 ```
 
 Feel free to explore the code within the `src` directory to customize features and improve functionality as per your requirements.
+
+---
+
+Additional Note:
+bala
